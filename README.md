@@ -46,3 +46,6 @@ The code to use your Machine learning "Botlibre bot" at discord
 <li>Congratulations, if you did everything correctly you now have bot running.</li>
 </ul>
 
+Consider buying me a coffee, if you loved my work.
+https://www.buymeacoffee.com/suprin
+
